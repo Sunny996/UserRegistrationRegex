@@ -9,7 +9,7 @@ public class Test {
         System.out.println(Pattern.matches(userRegistration.lastName, "Satla"));
         System.out.println(Pattern.matches(userRegistration.email, "akash.satla@gmail.co.in"));
         System.out.println(Pattern.matches(userRegistration.phoneNumber, "91 9676443328"));
-        System.out.println(Pattern.matches(userRegistration.password, "ajvjafvc"));
+        System.out.println(Pattern.matches(userRegistration.password, "Ajv12jafvc"));
 
     }
 }
