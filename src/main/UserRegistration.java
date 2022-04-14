@@ -1,5 +1,5 @@
 package main;
 
 public class UserRegistration {
-    public String firstName = "^[A-Z]{1}[A-Za-z]{2}.*";
+    public String firstName = "^[A-Z]{1}[a-z]{2}[a-z]*$";
 }
